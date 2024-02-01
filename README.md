@@ -6,7 +6,7 @@ In this project, I am tasked with scraping data from booking.com and performing 
 The results are as follows, and the dashboard allows users to dynamically add input fields for location and dates to trigger the web crawler:
   
 <div align="center">
-  <img src="https://github.com/sean08266/Booking.com-dashboard/blob/main/Dashboard%20sample.png" width="85%" alt="image">
+  <img src="https://github.com/sean08266/Booking.com-dashboard/blob/main/.png/Dashboard%20sample.png" width="85%" alt="image">
 </div>
 
 ## Description
